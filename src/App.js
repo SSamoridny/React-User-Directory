@@ -1,14 +1,14 @@
 import React from 'react'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
-import MainContainer from './components/MainContainer'
-import './components/style.css'
+import MainContainer from './components/Main'
+import './components/App.css'
 
 function App() {
   
 
   return (
-    <div className="App">
+    <div className="body">
       <Navbar />
       <MainContainer />
       <Footer />

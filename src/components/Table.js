@@ -15,7 +15,7 @@ function Table(props){
             </thead>
             <tbody>
                 {props.list.map(user => 
-                <tr style={{borderTop: "2px solid gray"}}>
+                <tr style={{borderTop: "2px solid white"}}>
                 <td>
                     <img src={user.picture.thumbnail} alt="profile"/>
                 </td>

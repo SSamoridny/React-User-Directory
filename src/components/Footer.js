@@ -1,12 +1,10 @@
 import React from 'react'
-import './style.css'
+import './App.css'
 
 function Footer(){
     return (
         <footer>
-            <ul className="footer">
-                <li>React User Directory</li>
-            </ul>
+            <h5>User Directory</h5>
         </footer>
     )
 }
