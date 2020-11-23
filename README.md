@@ -30,7 +30,7 @@
 
 ## GitHUb Adress:
 
-[github.com/SSamoridny](github.com/SSamoridny)
+[SSamoridny](https://github.com/SSamoridny)
 
 ## Email Address:
 
