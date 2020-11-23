@@ -17,6 +17,8 @@
 ## Installation:
 
          This project needs no installation as a working link is provided below
+         
+[React User Directory](https://ssamoridny.github.io/React-User-Directory/)
 
 ## Usage:
 
@@ -28,11 +30,11 @@
 
 ## GitHUb Adress:
 
-    [](github.com/SSamoridny)
+[github.com/SSamoridny](github.com/SSamoridny)
 
 ## Email Address:
 
-    [](ssamoridny@gmail.com)
+[ssamoridny@gmail.com](ssamoridny@gmail.com)
 
 ## License:
     
@@ -61,5 +63,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 }
       
-
+![User Directory](https://user-images.githubusercontent.com/30538162/99921894-b1aff400-2cea-11eb-95b4-9a8d30bcf53b.gif)
    
