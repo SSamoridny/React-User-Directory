@@ -54,13 +54,6 @@ nav{
 
 .filter{
   color: lime;
-  opacity: 0;
-  /* background-color: Transparent; */
-  background-repeat:no-repeat;
-  border: none;
-  cursor:pointer;
-  overflow: hidden;
-  outline:none;
 }
 
 .filter:hover{
@@ -72,11 +65,6 @@ footer{
   border: 2px solid lime;
   padding-bottom: 2px;
   color: lime;
-}
-
-.footer{
-  display: flex;
-  justify-content: space-around;
 }
 
 li{
