@@ -28,7 +28,7 @@
 
         Fil Labourde-Basto, Daniel Ceballos and various classmates and study groups who helped me to build my skills
 
-## GitHUb Adress:
+## GitHub Adress:
 
 [SSamoridny](https://github.com/SSamoridny)
 
